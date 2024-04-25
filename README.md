@@ -1,6 +1,6 @@
 # Deep Face Detection using VGG16 CNN Architecture
 
-👤 Author: [Your Name]
+👤 Author: SarLin7757
 
 ## Overview
 This repository contains an implementation of a deep face detection model using the VGG16 convolutional neural network (CNN) architecture. The model is trained to detect faces in images with high accuracy.
